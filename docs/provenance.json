@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-breakout-pairs",
+  "sourceCommit": "70c3a40986255af9c67a37909375a113d0eaa54e",
+  "releaseCommit": "70c3a40986255af9c67a37909375a113d0eaa54e",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-26T18:44:03Z"
+}
