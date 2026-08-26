@@ -2,6 +2,7 @@ import { createMeshConfig } from "@baditaflorin/mesh-common";
 
 export const config = createMeshConfig({
   appName: "mesh-breakout-pairs",
+  breadcrumbs: false,
   description: "Facilitator-led peer breakout rotations for small group conversations.",
   accentHex: "#14b8a6",
   version: __APP_VERSION__,
